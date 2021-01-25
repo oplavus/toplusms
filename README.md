@@ -1,14 +1,15 @@
 # toplusms
-Oplavus Toplu SMS API Örnekleri
+<p>Oplavus Toplu SMS API Örnekleri</p>
 
-http://toplusms.biz web sitesine bağlı aboneliklerin otomasyonel olarak işletilmesine olanak sağlayan altyapı örnek kodlarını içerir.
+<p>http://toplusms.biz web sitesine bağlı aboneliklerin otomasyonel olarak işletilmesine olanak sağlayan altyapı örnek kodlarını içerir./p>
 
-Delphi 7
-Visual Basic 6.0
-Visual Basic .NET
-Visual C++
-Visual C# 
-
+<p>
+Delphi 7<br>
+Visual Basic 6.0<br>
+Visual Basic .NET<br>
+Visual C++<br>
+Visual C# <br>
+</p>
 Python 2.6
 Python 3.6
 Perl
