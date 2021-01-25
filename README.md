@@ -10,17 +10,24 @@ Visual Basic .NET<br>
 Visual C++<br>
 Visual C# <br>
 </p>
-Python 2.6
-Python 3.6
-Perl
-Go
-LUA
-Java
-
-programlama dillerinde örnek kodlar paylaşılmakta olup eksiklikler ilgili web istemizdeki telefonlardan destek talep edebilirsiniz.
-
+<p>
+Python 2.6<br>
+Python 3.6<br>
+Perl<br>
+Go<br>
+LUA<br>
+Java<br>
+</p>
+<p>
+Classic ASP<br>
+PHP<br>
+Javascript<br>
+<p>
+programlama dillerinde entegrasyon örnek kodları paylaşılmakta olup eksiklikler ile ilgili web istemizdeki telefonlardan destek talep edebilirsiniz.
+<p>
+<p>
 Oplavus Telekom - İstanbul
-
+</p>
 
 
 
